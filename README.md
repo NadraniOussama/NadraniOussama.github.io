@@ -1,36 +1,14 @@
-# portfolio
+# Meryem MANESSOURI homepage
 
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*My homepage is built on [Minimal theme](http://pages-themes.github.io/minimal), which is a Jekyll theme for GitHub Pages.*
 
+View [my homepage](https://meryemman.github.io/) for a demo!
+## Usage
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-how are you doing my boy 
+To use the Minimal theme:
+* You can simple fork this repo and change the name into "yourusername.github.io".
+* Customizing your own homepage :
+  - Revise the `_config.yml` with your personal infomation
+  - The main content is stored in the `index.md`. 
+  - The left user profile is decided in the `_layouts/default.html`
+  - You can put your image under `assets/img/`. Pay attention to the size of the image.
